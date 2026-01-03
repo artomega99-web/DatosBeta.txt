@@ -1,11 +1,31 @@
 VERSION=1.1
-ACTUALIZACIONES=5
-https://drive.google.com/file/d/UPDATE1/view
-https://drive.google.com/file/d/UPDATE2/view
-https://drive.google.com/file/d/UPDATE3/view
-https://drive.google.com/file/d/UPDATE4/view
-https://drive.google.com/file/d/UPDATE5/view
+ACTUALIZACIONES=7
+https://drive.google.com/drive/folders/1G84OlWOcDnSoJmG0DJIQpOukXdjCnl7N?usp=sharing
+https://drive.google.com/drive/folders/1rXMKTOFbAigRjH3n0URcQMMeaOnk4oNh?usp=sharing
+https://drive.google.com/drive/folders/1ENf3fZqlvL0E1O3Hz_5Mj6s7ZkWxnY61?usp=sharing
+https://drive.google.com/drive/folders/1ArwFGBEEmMzt7b0w-Y4iuX5ePWEqCmu9?usp=sharing
+https://drive.google.com/drive/folders/1yygyzkv6D1FiZJ4M3cwa-a23CQERfFN-?usp=sharing
+https://drive.google.com/drive/folders/13xYcBM_UsjtuzsvvwM1GZ-qsMHoyqneT?usp=sharing
+https://drive.google.com/drive/folders/12z49VvmyPm4X21y7FhZSkpfRUb7Shcah?usp=drive_link
 #NOTAS
+IMPORTANTE, Tener suficiente memoria libre para la instalacion, o dara error.
+Recuerda instalar las actualizaciones en orden.
 Gracias por Jugar ArtOmega Beta
-#NOTAS
-Gracias por Jugar ArtOmega Beta
+Creado Por D117, Lonely Wolf, CrisOvO.
+Modo Bestia Elite Desarrollado Por LATEXXJUGGERNUT y Strlye.
+¿Tienes problemas? Visita el Discord de la comunidad.
+Al instalar el juego o una actualización Puede tomar unos minutos a que termine.
+Los accesos directos pueden ayudarte a iniciar más rápido.
+Instala WinRAR para evitar errores con archivos comprimidos.
+ArtOmega agradece tu apoyo constante.
+La instalación del juego puede ser en la ubicación que tu quieras.
+El juego base requiere 20GB en tu unidad/disco C: aproximadamente.
+El contenido extra puede no funcionar si no estas al día con las actualizaciones.
+Si encuentras un error por favor informalo en el Discord en la sección de #bugs-Avisos.
+Enoth estuvo aqui.
+NOVEDAD: Tu nombre ya no se borrara después de esta actualización.
+NOVEDAD: Nuevos Personajes para Horda, Bestia y Multijugador.
+Juega seguido y si quieres tu nombre podrá salir aquí con una nota tuya.
+NOVEDAD: Nuevos mapas disponibles.
+AVISO: En algún momento la actualización 5 y 6 Se volverán una sola.
+AVISO: Se soluciono el error de seleccion de modo FFA en el manager.
