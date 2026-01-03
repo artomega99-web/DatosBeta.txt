@@ -10,6 +10,7 @@ https://drive.google.com/drive/folders/12z49VvmyPm4X21y7FhZSkpfRUb7Shcah?usp=dri
 #NOTAS
 IMPORTANTE, Tener suficiente memoria libre para la instalacion, o dara error.
 Recuerda instalar las actualizaciones en orden.
+En Horda, tus cambios se guardan incluyendo el inventario aunque no se muestre al volver a abrir el Manager.
 Gracias por Jugar ArtOmega Beta
 Creado Por D117, Lonely Wolf, CrisOvO.
 Modo Bestia Elite Desarrollado Por LATEXXJUGGERNUT y Strlye.
