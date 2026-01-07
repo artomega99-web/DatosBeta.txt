@@ -1,5 +1,5 @@
-VERSION=1.1
-ACTUALIZACIONES=7
+VERSION=1.1.1
+ACTUALIZACIONES=8
 https://drive.google.com/drive/folders/1G84OlWOcDnSoJmG0DJIQpOukXdjCnl7N?usp=sharing
 https://drive.google.com/drive/folders/1rXMKTOFbAigRjH3n0URcQMMeaOnk4oNh?usp=sharing
 https://drive.google.com/drive/folders/1ENf3fZqlvL0E1O3Hz_5Mj6s7ZkWxnY61?usp=sharing
@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1ArwFGBEEmMzt7b0w-Y4iuX5ePWEqCmu9?usp=sha
 https://drive.google.com/drive/folders/1yygyzkv6D1FiZJ4M3cwa-a23CQERfFN-?usp=sharing
 https://drive.google.com/drive/folders/13xYcBM_UsjtuzsvvwM1GZ-qsMHoyqneT?usp=sharing
 https://drive.google.com/drive/folders/12z49VvmyPm4X21y7FhZSkpfRUb7Shcah?usp=drive_link
+https://drive.google.com/drive/folders/1MvhMJz9XAgEl5P_OwU6u4_WgYs_8rbLx?usp=sharing
 #NOTAS
 IMPORTANTE, Tener suficiente memoria libre para la instalacion, o dara error.
 Recuerda instalar las actualizaciones en orden.
