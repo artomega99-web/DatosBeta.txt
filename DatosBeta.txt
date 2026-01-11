@@ -118,3 +118,19 @@ bIsLeader=false
 bIsDisabled=false
 
 PACK_INI_END
+#CHANGELOG
+[2026-01-10]
+- Guardado automático de packs de contenido
+- Nuevo sistema de mensajes importantes
+- Corrección en modo FFA
+- Mejora visual en Configuración
+- Vista previa mejorada en Gráficos
+- Corrección al aplicar VSync
+- Mejor detección de instalación válida
+
+[2026-01-10]
+- Primera versión pública
+- Instalador automático del juego base
+
+[2025-12-28]
+- Build inicial privada
