@@ -94,3 +94,27 @@ Play often and your name might appear here with your own note.
 NEW: New maps available.
 NOTICE: Updates 5 and 6 may be merged in the future.
 NOTICE: Fixed FFA mode selection issue in the Manager.
+
+# =========================
+# PACK DE PERSONAJES
+# =========================
+
+PACK_ID=Pollos
+
+PACK_NOMBRE_ES=Pack de personajes de pollos
+PACK_DESC_ES=prueba.
+
+PACK_NOMBRE_EN=pollos Character Pack
+PACK_DESC_EN=pollos character pack for the menu, content creators, Sub-Zero.
+
+PACK_INI_BEGIN
+[Chirlis COGCharacterSummary]
+ClassPathName=GearGameContent.GearPawn_COGChirlis
+PortraitIcon=(ImagePathName="UI_Portraits.UI_MPChar_Cog",Coordinates=(U=110,V=138,UL=110,VL=138))
+CharacterPortraitLarge=UI_CharPortraits.Chirlis
+CharacterPortraitSmall=UI_CharPortraits_SM.ytsmall
+ProfileId=CMPC_chir
+bIsLeader=false
+bIsDisabled=false
+
+PACK_INI_END
