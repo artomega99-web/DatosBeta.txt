@@ -2,7 +2,7 @@
 # INFORMACIÓN GENERAL DEL LAUNCHER
 # =====================================================
 
-VERSION=1.1.1
+VERSION=1.1.2
 ACTUALIZACIONES=8
 
 UPDATE_LINK=1
