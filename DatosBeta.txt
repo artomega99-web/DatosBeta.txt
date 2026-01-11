@@ -37,10 +37,10 @@ https://drive.google.com/drive/folders/1MvhMJz9XAgEl5P_OwU6u4_WgYs_8rbLx?usp=sha
 AVISO_ID=msg_2026_01
 
 AVISO_TITULO_ES=Novedades y Mejoras
-AVISO_TEXTO_ES=Se realizarán cambios importantes en el Omega Manager. Ver más en Configuración - Novedades.
+AVISO_TEXTO_ES=VOLVER A DESCARGAR Y INSTALAR LA PARTE 8. Se realizarán cambios importantes en el Omega Manager. Ver más en Configuración - Novedades.
 
 AVISO_TITULO_EN=News and Improvements
-AVISO_TEXTO_EN=Important changes will be made to the Omega Manager. See more in Settings - Changelog.
+AVISO_TEXTO_EN=DOWNLOAD AND INSTALL PART 8 AGAIN. Important changes will be made to the Omega Manager. See more in Settings - Changelog.
 
 
 # =====================================================
@@ -99,13 +99,13 @@ NOTICE: Fixed FFA mode selection issue in the Manager.
 # PACK DE PERSONAJES
 # =========================
 
-PACK_ID=Pollos
+PACK_ID=Prueba/Test
 
-PACK_NOMBRE_ES=Pack de personajes de pollos
-PACK_DESC_ES=prueba.
+PACK_NOMBRE_ES=Pack de personajes de Prueba
+PACK_DESC_ES=prueba de paquete de contenido via Internet.
 
-PACK_NOMBRE_EN=pollos Character Pack
-PACK_DESC_EN=pollos character pack for the menu, content creators, Sub-Zero.
+PACK_NOMBRE_EN=Test Character Pack
+PACK_DESC_EN=Content package test via Internet.
 
 PACK_INI_BEGIN
 [Chirlis COGCharacterSummary]
@@ -120,17 +120,35 @@ bIsDisabled=false
 PACK_INI_END
 #CHANGELOG
 [2026-01-10]
-- Guardado automático de packs de contenido
-- Nuevo sistema de mensajes importantes
-- Corrección en modo FFA
-- Mejora visual en Configuración
-- Vista previa mejorada en Gráficos
-- Corrección al aplicar VSync
-- Mejor detección de instalación válida
-
-[2026-01-10]
-- Primera versión pública
-- Instalador automático del juego base
+- Esp
+- Corrección de Rager Transformado MP
+- Corrección de Myrrah Pesadilla MP
+- Nuevas imágenes para Mark V y Anya Control
+- Eliminado el input para desbloquear fortificaciones con el botón "Y"
+- Todas las fortificaciones ahora están desbloqueadas permanentemente
+- Las fortificaciones se muestran visualmente en nivel 1, pero están totalmente desbloqueadas
+- MANAGER
+- Implementación del sistema de idioma (ES / EN)
+- Ampliación del diccionario de idiomas (aún faltan más traducciones)
+- El idioma seleccionado ahora se guarda correctamente
+- Los nuevos paquetes de contenido ahora pueden recibirse vía internet (El paquete de contenido TEST/Prueba solo es para eso no tiene nada nuevo)
+- Nuevo sistema de mensajes de alerta para avisos y novedades importantes
+- ENG
+- Fixed Transformed Rager MP
+- Fixed Nightmare Myrrah MP
+- New images added for Mark V and Anya Control
+- Removed the input to unlock fortifications using the "Y" button
+- All fortifications are now permanently unlocked
+- Fortifications are visually shown as level 1 but are fully unlocked
+- MANAGER
+- Language system implemented (ES / EN)
+- Language dictionary expanded (more translations still pending)
+- Selected language is now saved correctly
+- New content packs can now be delivered via internet (The TEST/Prueba content package is only for that purpose; it doesn't contain anything new.)
+- New alert message system for important notices and updates
 
 [2025-12-28]
-- Build inicial privada
+- ESM
+- Agregando novedades al manager
+- ENG
+- Adding new features to the manager
