@@ -1,33 +1,96 @@
+# =====================================================
+# INFORMACIÓN GENERAL DEL LAUNCHER
+# =====================================================
+
 VERSION=1.1.1
 ACTUALIZACIONES=8
+
+UPDATE_LINK=1
 https://drive.google.com/drive/folders/1G84OlWOcDnSoJmG0DJIQpOukXdjCnl7N?usp=sharing
+
+UPDATE_LINK=2
 https://drive.google.com/drive/folders/1rXMKTOFbAigRjH3n0URcQMMeaOnk4oNh?usp=sharing
+
+UPDATE_LINK=3
 https://drive.google.com/drive/folders/1ENf3fZqlvL0E1O3Hz_5Mj6s7ZkWxnY61?usp=sharing
+
+UPDATE_LINK=4
 https://drive.google.com/drive/folders/1ArwFGBEEmMzt7b0w-Y4iuX5ePWEqCmu9?usp=sharing
+
+UPDATE_LINK=5
 https://drive.google.com/drive/folders/1yygyzkv6D1FiZJ4M3cwa-a23CQERfFN-?usp=sharing
+
+UPDATE_LINK=6
 https://drive.google.com/drive/folders/13xYcBM_UsjtuzsvvwM1GZ-qsMHoyqneT?usp=sharing
+
+UPDATE_LINK=7
 https://drive.google.com/drive/folders/12z49VvmyPm4X21y7FhZSkpfRUb7Shcah?usp=drive_link
+
+UPDATE_LINK=8
 https://drive.google.com/drive/folders/1MvhMJz9XAgEl5P_OwU6u4_WgYs_8rbLx?usp=sharing
-#NOTAS
-IMPORTANTE, Tener suficiente memoria libre para la instalacion, o dara error.
+
+
+# =====================================================
+# AVISO IMPORTANTE (SE MUESTRA UNA SOLA VEZ)
+# =====================================================
+
+AVISO_ID=msg_2026_01
+
+AVISO_TITULO_ES=Novedades y Mejoras
+AVISO_TEXTO_ES=Se realizarán cambios importantes en el Omega Manager. Ver más en Configuración - Novedades.
+
+AVISO_TITULO_EN=News and Improvements
+AVISO_TEXTO_EN=Important changes will be made to the Omega Manager. See more in Settings - Changelog.
+
+
+# =====================================================
+# NOTAS ROTATIVAS / MENSAJES EN LA NUBE
+# =====================================================
+
+#NOTAS_ES
+IMPORTANTE: Tener suficiente memoria libre para la instalación o dará error.
 Recuerda instalar las actualizaciones en orden.
 En Horda, tus cambios se guardan incluyendo el inventario aunque no se muestre al volver a abrir el Manager.
-Gracias por Jugar ArtOmega Beta
-Creado Por D117, Lonely Wolf, CrisOvO.
-Modo Bestia Elite Desarrollado Por LATEXXJUGGERNUT y Strlye.
+Gracias por jugar ArtOmega Beta.
+Creado por D117, Lonely Wolf y CrisOvO.
+Modo Bestia Elite desarrollado por LATEXXJUGGERNUT y Strlye.
 ¿Tienes problemas? Visita el Discord de la comunidad.
-Al instalar el juego o una actualización Puede tomar unos minutos a que termine.
+Al instalar el juego o una actualización puede tomar unos minutos.
 Los accesos directos pueden ayudarte a iniciar más rápido.
 Instala WinRAR para evitar errores con archivos comprimidos.
 ArtOmega agradece tu apoyo constante.
-La instalación del juego puede ser en la ubicación que tu quieras.
-El juego base requiere 20GB en tu unidad/disco C: aproximadamente.
-El contenido extra puede no funcionar si no estas al día con las actualizaciones.
-Si encuentras un error por favor informalo en el Discord en la sección de #bugs-Avisos.
-Enoth estuvo aqui.
-NOVEDAD: Tu nombre ya no se borrara después de esta actualización.
-NOVEDAD: Nuevos Personajes para Horda, Bestia y Multijugador.
-Juega seguido y si quieres tu nombre podrá salir aquí con una nota tuya.
+La instalación del juego puede ser en la ubicación que tú quieras.
+El juego base requiere aproximadamente 20GB en la unidad C:.
+El contenido extra puede no funcionar si no estás al día con las actualizaciones.
+Si encuentras un error, repórtalo en Discord en la sección #bugs-avisos.
+Enoth estuvo aquí.
+NOVEDAD: Tu nombre ya no se borrará después de esta actualización.
+NOVEDAD: Nuevos personajes para Horda, Bestia y Multijugador.
+Juega seguido y tu nombre podría aparecer aquí con una nota tuya.
 NOVEDAD: Nuevos mapas disponibles.
-AVISO: En algún momento la actualización 5 y 6 Se volverán una sola.
-AVISO: Se soluciono el error de seleccion de modo FFA en el manager.
+AVISO: En algún momento las actualizaciones 5 y 6 se unificarán.
+AVISO: Se solucionó el error de selección del modo FFA en el Manager.
+
+#NOTAS_EN
+IMPORTANT: Make sure you have enough free disk space or installation may fail.
+Remember to install updates in order.
+In Horde mode, your changes are saved including inventory even if not shown after reopening the Manager.
+Thanks for playing ArtOmega Beta.
+Created by D117, Lonely Wolf and CrisOvO.
+Elite Beast Mode developed by LATEXXJUGGERNUT and Strlye.
+Having issues? Visit the community Discord.
+Installing the game or an update may take a few minutes.
+Shortcuts can help you launch the game faster.
+Install WinRAR to avoid compressed file errors.
+ArtOmega appreciates your continued support.
+The game can be installed in any location you choose.
+Base game requires approximately 20GB on drive C:.
+Extra content may not work if you are not up to date.
+If you find a bug, report it on Discord in the #bugs-notices section.
+Enoth was here.
+NEW: Your player name will no longer reset after this update.
+NEW: New characters for Horde, Beast and Multiplayer.
+Play often and your name might appear here with your own note.
+NEW: New maps available.
+NOTICE: Updates 5 and 6 may be merged in the future.
+NOTICE: Fixed FFA mode selection issue in the Manager.
